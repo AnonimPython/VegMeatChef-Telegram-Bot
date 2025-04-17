@@ -32,7 +32,7 @@ Copy
 
 ```
 git clone https://github.com/AnonimPython/VegMeatChef-Telegram-Bot.git
-cd chev
+cd VegMeatChef-Telegram-Bot
 ```
 
 2. Установите зависимости:
